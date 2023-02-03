@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace TetrisGame
 {
-    /// Authors: Dimitri Spyropoulos, Renuchan Thambirajah, Hau Gilles Che
     public class ShapeProxy : IShapeFactory,IShape
     {
         public event JoinPileHandler JoinPile;

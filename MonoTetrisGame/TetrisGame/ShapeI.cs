@@ -7,7 +7,6 @@ using Microsoft.Xna.Framework;
 
 namespace TetrisGame
 {
-    /// Authors: Dimitri Spyropoulos, Renuchan Thambirajah, Hau Gilles Che
     public class ShapeI : Shape
     {
         public ShapeI(IBoard board)

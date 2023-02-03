@@ -10,7 +10,6 @@ namespace TetrisGame
 {
     public delegate void JoinPileHandler();
 
-    /// Authors: Dimitri Spyropoulos, Renuchan Thambirajah, Hau Gilles Che
     public abstract class Shape : IShape
     {
         public event JoinPileHandler JoinPile;

@@ -10,7 +10,6 @@ namespace TetrisGame
     public delegate void LinesClearedHandler(int lines); 
     public delegate void GameOverHandler();
 
-    /// Authors: Dimitri Spyropoulos, Renuchan Thambirajah, Hau Gilles Che
     public interface IBoard
     {   
         /// <summary>

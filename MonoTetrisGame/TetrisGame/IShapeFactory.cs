@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace TetrisGame
 {
-    /// Authors: Dimitri Spyropoulos, Renuchan Thambirajah, Hau Gilles Che
     public interface IShapeFactory
     {
         /// <summary>
